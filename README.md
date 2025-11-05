@@ -41,6 +41,5 @@ Limpiar y transformar datos en un formato estructurado y útil, estos datos se o
 
 ## Estructura
 - `Data/raw` - Datos fuente
-- `Tablas Dinamicas` - Análisis en tablas Dinámicas y fórmulas
 - `SQL` - Queries sql
   
