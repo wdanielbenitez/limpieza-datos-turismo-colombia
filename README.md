@@ -8,7 +8,7 @@ Limpiar y transformar datos en un formato estructurado y útil, estos datos se o
 
 - <a href="https://github.com/wdanielbenitez/limpieza-datos-turismo-colombia/tree/master/data/raw/viajeros_2024_datos_abiertos_final-1.xlsx">viajeros_2024.xlsx</a>
 
-- <a href="https://github.com/wdanielbenitez/limpieza-datos-turismo-colombia/tree/master/data/raw/diccionario-de-datos_viajeros_2024-da.xlsx">Diccionario.xlsx</a>
+- <a href="https://github.com/wdanielbenitez/limpieza-datos-turismo-colombia/tree/master/data/raw/diccionario-de-datos_viajeros_2024-da.xlsx">diccionario.xlsx</a>
 
 ## Problemas Encontrados y Soluciones
 | Problema | Ejemplo | Solución SQL |
